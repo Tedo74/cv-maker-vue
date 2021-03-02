@@ -1,5 +1,5 @@
 # cv-maker
-##Vue.js project
+## Vue.js project
 
 ## Project setup
 ```
